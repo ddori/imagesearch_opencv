@@ -10,10 +10,8 @@ How to do
 1. you have to make 2 folder (model, data)
 
 model
-|
-|-- resnet18-5c106cde.pth
+-> resnet18-5c106cde.pth
 
 data
-|
-|-- test160
-|-- eval
+-> test160
+-> eval
